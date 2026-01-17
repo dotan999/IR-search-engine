@@ -110,9 +110,5 @@ where:
 
 ## Authors
 
-- [Student Name 1] - [student1@post.bgu.ac.il]
-- [Student Name 2] - [student2@post.bgu.ac.il]
-
-## License
-
-This project is part of an academic assignment at Ben-Gurion University.
+- [ameer jamool] - [ameerja@post.bgu.ac.il]
+- [dotan katz] - [dotankat@post.bgu.ac.il]
